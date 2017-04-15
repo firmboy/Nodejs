@@ -11,3 +11,5 @@ if(buf<0){
 }else {
 	console.log(buf1.toString()+"在"+buf2.toString()+"之后");
 }
+
+console.log("hehe")
