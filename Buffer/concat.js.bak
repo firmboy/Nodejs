@@ -1,7 +1,0 @@
-var buf1 = new Buffer("²ËÄñ½Ì³Ì");
-
-var buf2 = new Buffer("www.runoob.com");
-
-var buf = Buffer.concat([buf1,buf2]);
-
-console.log(buf.toString("ascii"));
