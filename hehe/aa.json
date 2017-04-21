@@ -1,149 +1,157 @@
 {
-  "query": {
-    "count": 1,
-    "created": "2017-04-16T10:05:42Z",
-    "lang": "zh-CN",
-    "results": {
-      "channel": {
-        "units": {
-          "distance": "mi",
-          "pressure": "in",
-          "speed": "mph",
-          "temperature": "F"
-        },
-        "title": "Yahoo! Weather - Beijing, Beijing, CN",
-        "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2151330/",
-        "description": "Yahoo! Weather for Beijing, Beijing, CN",
-        "language": "en-us",
-        "lastBuildDate": "Sun, 16 Apr 2017 06:05 PM CST",
-        "ttl": "60",
-        "location": {
-          "city": "Beijing",
-          "country": "China",
-          "region": " Beijing"
-        },
-        "wind": {
-          "chill": "70",
-          "direction": "185",
-          "speed": "18"
-        },
-        "atmosphere": {
-          "humidity": "48",
-          "pressure": "1000.0",
-          "rising": "0",
-          "visibility": "16.1"
-        },
-        "astronomy": {
-          "sunrise": "5:35 am",
-          "sunset": "6:54 pm"
-        },
-        "image": {
-          "title": "Yahoo! Weather",
-          "width": "142",
-          "height": "18",
-          "link": "http://weather.yahoo.com",
-          "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
-        },
-        "item": {
-          "title": "Conditions for Beijing, Beijing, CN at 05:00 PM CST",
-          "lat": "39.90601",
-          "long": "116.387909",
-          "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2151330/",
-          "pubDate": "Sun, 16 Apr 2017 05:00 PM CST",
-          "condition": {
-            "code": "26",
-            "date": "Sun, 16 Apr 2017 05:00 PM CST",
-            "temp": "69",
-            "text": "Cloudy"
-          },
-          "forecast": [
-            {
-              "code": "26",
-              "date": "16 Apr 2017",
-              "day": "Sun",
-              "high": "81",
-              "low": "54",
-              "text": "Cloudy"
-            },
-            {
-              "code": "30",
-              "date": "17 Apr 2017",
-              "day": "Mon",
-              "high": "81",
-              "low": "55",
-              "text": "Partly Cloudy"
-            },
-            {
-              "code": "34",
-              "date": "18 Apr 2017",
-              "day": "Tue",
-              "high": "76",
-              "low": "52",
-              "text": "Mostly Sunny"
-            },
-            {
-              "code": "30",
-              "date": "19 Apr 2017",
-              "day": "Wed",
-              "high": "70",
-              "low": "52",
-              "text": "Partly Cloudy"
-            },
-            {
-              "code": "30",
-              "date": "20 Apr 2017",
-              "day": "Thu",
-              "high": "69",
-              "low": "50",
-              "text": "Partly Cloudy"
-            },
-            {
-              "code": "34",
-              "date": "21 Apr 2017",
-              "day": "Fri",
-              "high": "77",
-              "low": "46",
-              "text": "Mostly Sunny"
-            },
-            {
-              "code": "30",
-              "date": "22 Apr 2017",
-              "day": "Sat",
-              "high": "78",
-              "low": "53",
-              "text": "Partly Cloudy"
-            },
-            {
-              "code": "34",
-              "date": "23 Apr 2017",
-              "day": "Sun",
-              "high": "76",
-              "low": "53",
-              "text": "Mostly Sunny"
-            },
-            {
-              "code": "23",
-              "date": "24 Apr 2017",
-              "day": "Mon",
-              "high": "77",
-              "low": "56",
-              "text": "Breezy"
-            },
-            {
-              "code": "34",
-              "date": "25 Apr 2017",
-              "day": "Tue",
-              "high": "80",
-              "low": "55",
-              "text": "Mostly Sunny"
-            }
-          ],
-          "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/26.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Sun - Cloudy. High: 81Low: 54\n<BR /> Mon - Partly Cloudy. High: 81Low: 55\n<BR /> Tue - Mostly Sunny. High: 76Low: 52\n<BR /> Wed - Partly Cloudy. High: 70Low: 52\n<BR /> Thu - Partly Cloudy. High: 69Low: 50\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2151330/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
-          "guid": {
-            "isPermaLink": "false"
-          }
-        }
-      }
+  "total": "4",
+  "rows": [
+    {
+      "ACC_DATE": "",
+      "ACC_USER_ID": "",
+      "ACC_USER_NAME": "",
+      "AMOUNT": "0.3",
+      "APP_DATE": "",
+      "APP_USER_ID": "",
+      "APP_USER_NAME": "",
+      "BILL_ID": "a93d482e2b5e424394653c1f22e0d0b8",
+      "BILL_NO": "ZFZA_20170044",
+      "BILL_STATUS": "00",
+      "BILL_STATUS_NAME": "",
+      "BILL_TYPE": "RMT_SQBK",
+      "BUSI_DATE": "2017-04-05",
+      "CURRENT_AUDITOR": "",
+      "FISCAL": "2017",
+      "FIS_PERD": "4",
+      "GK_PAY_BILL_ID": "",
+      "INPUT_CO_CODE": "00251701",
+      "INPUT_DATE": "2017-04-05",
+      "INPUT_ORG_CODE": "",
+      "INPUT_ORG_NAME": "",
+      "INPUT_USER_ID": "sa",
+      "INPUT_USER_NAME": "系统管理员",
+      "INS_TYPE_CODE": "1101",
+      "INS_TYPE_CODE_NAME": "...",
+      "IN_BANKNODE_CODE": "",
+      "IN_BANKNODE_NAME": "",
+      "IN_BANK_ACC_NAME": "...",
+      "IN_BANK_ACC_NO": "47010154900000015",
+      "IN_BANK_CODE": "310",
+      "IN_BANK_NAME": "[310]上海浦东发展银行",
+      "IN_CO_CODE": "104",
+      "IN_CO_NAME": "...",
+      "IO_ITEM_NAME": "",
+      "IS_ADJUST": "0",
+      "IS_PRINT": "N",
+      "IS_VALID": "1",
+      "PAY_BANKNODE_CODE": "104143382",
+      "PAY_BANKNODE_NAME": "中国银行股份有限公司云南省分行",
+      "PAY_BANK_ACC_NAME": "云南省财政厅省级社保基金专户",
+      "PAY_BANK_ACC_NO": "135600414183-00",
+      "PAY_BANK_CODE": "104",
+      "PAY_BANK_NAME": "中国银行",
+      "PAY_CO_CODE": "00251701",
+      "PAY_CO_NAME": "[00251701] 云南省财政厅",
+      "PROCESS_INST_ID": "-3680",
+      "REMARK": "",
+      "ROWNUM": "1",
+      "SRC_BILL_ID": "",
+      "SRC_SYS": "",
+      "VOU_GUID": "",
+      "billItemList": "",
+      "fileList": "",
+      "incomeBg": "",
+      "incomeBill": "false",
+      "needWfAudit": "false",
+      "state": "closed"t
+    },
+    {
+      "BILL_TYPE": "",
+      "INPUT_USER_NAME": "",
+      "BUSI_DATE": "",
+      "AMOUNT": "0.1",
+      "_parentId": "a93d482e2b5e424394653c1f22e0d0b8",
+      "INPUT_DATE": "",
+      "INS_TYPE_CODE": "",
+      "INS_TYPE_CODE_NAME": "[1101] 企业职工基本养老保险基金",
+      "IO_ITEM_NAME": "职工养老保险待遇支出",
+      "IN_CO_NAME": "[104] ",
+      "IN_BANK_ACC_NAME": "玉溪市财政局国库科",
+      "BILL_ID": "a93d482e2b5e424394653c1f22e0d0b8",
+      "IN_CO_CODE": "",
+      "BILL_NO": "",
+      "INPUT_USER_ID": ""
+    },
+    {
+      "BILL_TYPE": "",
+      "INPUT_USER_NAME": "",
+      "BUSI_DATE": "",
+      "AMOUNT": "0.2",
+      "_parentId": "a93d482e2b5e424394653c1f22e0d0b8",
+      "INPUT_DATE": "",
+      "INS_TYPE_CODE": "",
+      "INS_TYPE_CODE_NAME": "[1101] 企业职工基本养老保险基金",
+      "IO_ITEM_NAME": "职工养老保险待遇支出",
+      "IN_CO_NAME": "[104] ",
+      "IN_BANK_ACC_NAME": "玉溪市财政局国库科",
+      "BILL_ID": "a93d482e2b5e424394653c1f22e0d0b8",
+      "IN_CO_CODE": "",
+      "BILL_NO": "",
+      "INPUT_USER_ID": ""
+    },
+    {
+      "ACC_DATE": "",
+      "ACC_USER_ID": "",
+      "ACC_USER_NAME": "",
+      "AMOUNT": "111",
+      "APP_DATE": "",
+      "APP_USER_ID": "",
+      "APP_USER_NAME": "",
+      "BILL_ID": "a1932fbc40244db2b812816dcf20aff4",
+      "BILL_NO": "ZFZA_20170045",
+      "BILL_STATUS": "00",
+      "BILL_STATUS_NAME": "",
+      "BILL_TYPE": "RMT_SQBK",
+      "BUSI_DATE": "2017-04-13",
+      "CURRENT_AUDITOR": "",
+      "FISCAL": "2017",
+      "FIS_PERD": "4",
+      "GK_PAY_BILL_ID": "",
+      "INPUT_CO_CODE": "00251701",
+      "INPUT_DATE": "2017-04-13",
+      "INPUT_ORG_CODE": "",
+      "INPUT_ORG_NAME": "",
+      "INPUT_USER_ID": "sa",
+      "INPUT_USER_NAME": "系统管理员",
+      "INS_TYPE_CODE": "1101",
+      "INS_TYPE_CODE_NAME": "[1101] 企业职工基本养老保险基金",
+      "IN_BANKNODE_CODE": "",
+      "IN_BANKNODE_NAME": "",
+      "IN_BANK_ACC_NAME": "玉溪市财政局国库科",
+      "IN_BANK_ACC_NO": "47010154900000015",
+      "IN_BANK_CODE": "310",
+      "IN_BANK_NAME": "[310]上海浦东发展银行",
+      "IN_CO_CODE": "104",
+      "IN_CO_NAME": "[104] ",
+      "IO_ITEM_NAME": "职工养老保险待遇支出",
+      "IS_ADJUST": "0",
+      "IS_PRINT": "N",
+      "IS_VALID": "1",
+      "PAY_BANKNODE_CODE": "104143382",
+      "PAY_BANKNODE_NAME": "中国银行股份有限公司云南省分行",
+      "PAY_BANK_ACC_NAME": "云南省财政厅省级社保基金专户",
+      "PAY_BANK_ACC_NO": "135600414183-00",
+      "PAY_BANK_CODE": "104",
+      "PAY_BANK_NAME": "中国银行",
+      "PAY_CO_CODE": "00251701",
+      "PAY_CO_NAME": "[00251701] 云南省财政厅",
+      "PROCESS_INST_ID": "-3683",
+      "REMARK": "",
+      "ROWNUM": "2",
+      "SRC_BILL_ID": "",
+      "SRC_SYS": "",
+      "VOU_GUID": "",
+      "billItemList": "",
+      "fileList": "",
+      "incomeBg": "",
+      "incomeBill": "false",
+      "needWfAudit": "false",
+      "state": ""
     }
-  }
+  ]
 }
