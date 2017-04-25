@@ -11,7 +11,6 @@ if(buf<0){
 }else {
 	console.log(buf1.toString()+"在"+buf2.toString()+"之后");
 }
-
 var buf1 = new Buffer("ABC");
 
 var buf2 = new Buffer("ABCD");
